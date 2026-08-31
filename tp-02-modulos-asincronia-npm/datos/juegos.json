@@ -1,0 +1,10 @@
+{
+    "titulo": "Solitario",
+    "editorial": "Windows",
+    "anio": 1999,
+    "jugadoresMin": 1,
+    "jugadoresMax": 1,
+    "categorias": ["Estrategia", "Cartas"],
+    "disponible": true
+}
+
