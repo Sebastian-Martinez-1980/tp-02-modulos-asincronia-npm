@@ -1,0 +1,47 @@
+CATÁLOGO DE JUEGOS DE MESA
+   ===============
+    
+    ==================================
+    Titulo: Solitario
+    Editorial: Windows 
+    Año: 1999
+    Jugadores Minimo: 1 
+    Jugadores Maximo: 1 
+    Categorias: Estrategia,Cartas 
+    Reserva: Disponible/n
+    ==================================
+    Titulo: Carrera de Mente
+    Editorial: Ruibal 
+    Año: 2004
+    Jugadores Minimo: 2 
+    Jugadores Maximo: 20 
+    Categorias: Estrategia,Suerte,Conocimiento 
+    Reserva: No disponible/n
+    ==================================
+    Titulo: Monopoly
+    Editorial: Hasbro 
+    Año: 2014
+    Jugadores Minimo: 2 
+    Jugadores Maximo: 6 
+    Categorias: Estrategia,Suerte 
+    Reserva: No disponible/n
+    ==================================
+    Titulo: Ajedrez
+    Editorial: Devir 
+    Año: 2015
+    Jugadores Minimo: 2 
+    Jugadores Maximo: 2 
+    Categorias: Estrategia,Lógica 
+    Reserva: Disponible/n
+    ==================================
+    Titulo: Damas
+    Editorial: Devir 
+    Año: 2015
+    Jugadores Minimo: 2 
+    Jugadores Maximo: 2 
+    Categorias: Estrategia,Lógica 
+    Reserva: Disponible
+    ===============
+
+   Cantidad de juegos: 5
+   

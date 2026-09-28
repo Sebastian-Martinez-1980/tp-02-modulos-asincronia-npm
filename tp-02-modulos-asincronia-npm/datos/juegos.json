@@ -1,0 +1,47 @@
+[
+    {
+    "titulo": "Solitario",
+    "editorial": "Windows",
+    "anio": 1999,
+    "jugadoresMin": 1,
+    "jugadoresMax": 1,
+    "categorias": ["Estrategia", "Cartas"],
+    "disponible": true
+    },
+    {
+    "titulo": "Carrera de Mente",
+    "editorial": "Ruibal",
+    "anio": 2004,
+    "jugadoresMin": 2,
+    "jugadoresMax": 20,
+    "categorias": ["Estrategia", "Suerte","Conocimiento"],
+    "disponible": false
+   },
+   {
+    "titulo": "Monopoly",
+    "editorial": "Hasbro",
+    "anio": 2014,
+    "jugadoresMin": 2,
+    "jugadoresMax": 6,
+    "categorias": ["Estrategia", "Suerte"],
+    "disponible": false
+   },
+   {
+    "titulo": "Ajedrez",
+    "editorial": "Devir",
+    "anio": 2015,
+    "jugadoresMin": 2,
+    "jugadoresMax": 2,
+    "categorias": ["Estrategia", "Lógica"],
+    "disponible": true
+  },
+  {
+    "titulo": "Damas",
+    "editorial": "Devir",
+    "anio": 2015,
+    "jugadoresMin": 2,
+    "jugadoresMax": 2,
+    "categorias": ["Estrategia", "Lógica"],
+    "disponible": true
+  }
+]
